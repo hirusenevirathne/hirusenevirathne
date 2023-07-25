@@ -24,4 +24,7 @@ Welcome to my GitHub profile! 🏋️‍♂️ As a software developer with a pa
 ---
 [![](https://visitcount.itsvg.in/api?id=hirusenevirathne&icon=5&color=9)](https://visitcount.itsvg.in)
 
+### 📈 My GitHub Contributions
+![Snake animation](https://github.com/jaiswaladi246/jaiswaladi246/blob/output/github-contribution-grid-snake.svg)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
